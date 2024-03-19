@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+    background: rgb(207, 191, 146);
+    background-image: url('https://c0.wallpaperflare.com/preview/408/885/171/aerial-aerial-view-baguette-baked.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  p {
+    align: center;
+  }
